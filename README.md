@@ -30,3 +30,4 @@ print("{:.2f}".format(distance))
 ![output](/out.png)
 
 ### RESULT:
+thus the phython program to calculate the distance between two points has been executed succesfully.
